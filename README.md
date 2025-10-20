@@ -37,7 +37,7 @@ A simple yet extensible **Clicker/Idle** game implemented with **Unity** and **C
 ---
 
 ## 📸 Screenshots & Figures (High‑Quality)
-Below are exported images (pages 12–66) that contain the game interface, Unity setup, scripts, button logic, testing artifacts, UML and Gantt.
+Below are exported images  that contain the game interface, Unity setup.
 
 - ![p012](assets/page_012.png)
 - ![p013](assets/page_013.png)
@@ -53,40 +53,8 @@ Below are exported images (pages 12–66) that contain the game interface, Unity
 - ![p023](assets/page_023.png)
 - ![p024](assets/page_024.png)
 - ![p025](assets/page_025.png)
-- ![p026](assets/page_026.png)
-- ![p027](assets/page_027.png)
-- ![p028](assets/page_028.png)
-- ![p029](assets/page_029.png)
-- ![p030](assets/page_030.png)
-- ![p031](assets/page_031.png)
-- ![p032](assets/page_032.png)
-- ![p033](assets/page_033.png)
-- ![p034](assets/page_034.png)
-- ![p035](assets/page_035.png)
-- ![p036](assets/page_036.png)
-- ![p037](assets/page_037.png)
-- ![p038](assets/page_038.png)
-- ![p039](assets/page_039.png)
-- ![p040](assets/page_040.png)
-- ![p041](assets/page_041.png)
-- ![p042](assets/page_042.png)
-- ![p043](assets/page_043.png)
-- ![p044](assets/page_044.png)
-- ![p045](assets/page_045.png)
-- ![p046](assets/page_046.png)
-- ![p047](assets/page_047.png)
-- ![p048](assets/page_048.png)
-- ![p049](assets/page_049.png)
-- ![p050](assets/page_050.png)
-- ![p051](assets/page_051.png)
-- ![p052](assets/page_052.png)
-- ![p053](assets/page_053.png)
-- ![p054](assets/page_054.png)
-- ![p055](assets/page_055.png)
-- ![p056](assets/page_056.png)
 
 
-> Tip: Keep the `csharp_assets/` folder next to this `README.md` in your repo so these images render on GitHub.
 
 ---
 
